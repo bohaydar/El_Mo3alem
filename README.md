@@ -9,7 +9,7 @@ apt upgrade
 
 apt install python
 
-git clone 
+git clone https://github.com/bohaydar/El_Mo3alem.git
 
 python Elmo3alem-GUI.py
 ________________________________________________________
